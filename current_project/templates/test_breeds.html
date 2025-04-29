@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dog Life‑Journey</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    :root {
+      --bg: #f0f4f8;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --shadow: rgba(0,0,0,0.07);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 0;
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      display: flex; flex-direction: column; align-items: center;
+      min-height: 100vh;
+    }
+    header {
+      padding: 24px 16px 8px;
+      text-align: center;
+    }
+    select {
+      padding: 6px 10px; border-radius: 6px; border: 1px solid var(--border);
+      font-size: 14px;
+    }
+    #chart {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: 0 4px 14px var(--shadow);
+      padding: 24px;
+      margin-bottom: 48px;
+    }
+    .axis text { font-size: 12px; }
+    .category-line { stroke: #edf2f7; stroke-width: 1; }
+    .tooltip {
+      position: absolute; pointer-events: none; z-index: 10;
+      background: rgba(0,0,0,0.82); color: #fff; font-size: 12px;
+      padding: 6px 10px; border-radius: 4px;
+      transform: translate(-50%, -120%);
+      white-space: nowrap;
+    }
+    .touchpoint-line {
+      fill: none;
+      stroke: #4a148c;
+      stroke-width: 2px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h2 style="margin:0 0 8px">Dog Life‑Journey</h2>
+    <label>
+      Breed:
+      <select id="breed-select"></select>
+    </label>
+  </header>
+
+  <div id="chart"></div>
+
+  <script>
+    const categories = ['Medication', 'Vet Visit', 'Diet', 'Condition'];
+    const colors = {
+      'Medication': '#2b6cb0',
+      'Vet Visit': '#d69e2e',
+      'Diet': '#2f855a',
+      'Condition': '#c53030'
+    };
+
+    const margin = { top: 50, right: 40, bottom: 60, left: 110 };
+    const w = 1000, hTimeline = 350, hLine = 100;
+    const width = w - margin.left - margin.right;
+
+    const svg = d3.select('#chart')
+      .append('svg')
+      .attr('width', w)
+      .attr('height', hTimeline + hLine + margin.top + margin.bottom)
+      .append('g')
+      .attr('transform', `translate(${margin.left},${margin.top})`);
+
+    const xScale = d3.scaleLinear().domain([0, 19]).range([0, width]);
+    const yTimeline = d3.scalePoint().domain(categories).range([hLine, hTimeline + hLine - 40]).padding(0.7);
+    const yTouchpoints = d3.scaleLinear().domain([0, 10]).range([hLine - 10, 0]);
+
+    svg.selectAll('.category-line')
+      .data(categories)
+      .join('line')
+      .attr('class', 'category-line')
+      .attr('x1', 0)
+      .attr('x2', width)
+      .attr('y1', d => yTimeline(d))
+      .attr('y2', d => yTimeline(d));
+
+    svg.selectAll('.cat')
+      .data(categories)
+      .join('text')
+      .attr('class', 'cat')
+      .attr('x', -12)
+      .attr('y', d => yTimeline(d))
+      .attr('dy', '0.35em')
+      .attr('text-anchor', 'end')
+      .text(d => d);
+
+    svg.append('g')
+      .attr('transform', `translate(0,${hTimeline + hLine - 40})`)
+      .call(d3.axisBottom(xScale).ticks(19).tickFormat(d => `${d}y`));
+
+    // Y-axis label for touchpoints
+    svg.append('text')
+      .attr('x', -margin.left + 10)
+      .attr('y', yTouchpoints.range()[1] / 2)
+      .attr('text-anchor', 'start')
+      .attr('font-size', '12px')
+      .attr('fill', '#4a148c')
+      .text('Mars Touchpoints');
+
+    const tooltip = d3.select('body').append('div').attr('class', 'tooltip').style('opacity', 0);
+
+    let allData;
+
+    d3.csv('/static/dog_mars_expanded_final.csv').then(data => {
+      allData = data;
+      const breeds = [...new Set(data.map(d => d.Breed))];
+      const select = d3.select('#breed-select');
+      select.selectAll('option')
+        .data(breeds)
+        .join('option')
+        .attr('value', d => d)
+        .text(d => d);
+
+      select.on('change', (event) => render(event.target.value));
+      render(breeds[0]);
+    });
+
+    function render(selectedBreed) {
+      svg.selectAll('circle.event').remove();
+      svg.selectAll('.touchpoint-line').remove();
+      svg.selectAll('.touchpoint-dot').remove();
+
+      const breedData = allData.filter(d => d.Breed === selectedBreed);
+
+      let expanded = [];
+      let yearlyTouchpoints = {};
+
+      breedData.forEach(d => {
+        const year = parseFloat(d.YR);
+        const floored = Math.floor(year);
+        yearlyTouchpoints[floored] = (yearlyTouchpoints[floored] || 0) + 1;
+        expanded.push({ ...d, YR: year });
+      });
+
+      svg.selectAll('circle.event')
+        .data(expanded)
+        .join('circle')
+        .attr('class', 'event')
+        .attr('r', 6)
+        .attr('fill', d => colors[d.Category] || '#999')
+        .attr('cx', d => xScale(d.YR))
+        .attr('cy', d => yTimeline(d.Category))
+        .on('mouseenter', (e,d) => {
+          tooltip.style('opacity',1).html(
+            `<strong>${d['Tool Tip']}</strong><br/>Age ${parseFloat(d.YR).toFixed(2)}<br/>Product Recommendation: ${d.Product || 'N/A'}`)
+            .style('left', `${e.pageX}px`).style('top', `${e.pageY - 28}px`);
+        })
+        .on('mousemove', e => tooltip.style('left', `${e.pageX}px`).style('top', `${e.pageY - 28}px`))
+        .on('mouseleave', () => tooltip.style('opacity',0));
+
+      const touchpointData = Object.entries(yearlyTouchpoints).map(([yr, total]) => ({
+        year: +yr,
+        total: +total
+      })).sort((a, b) => a.year - b.year);
+
+      yTouchpoints.domain([0, d3.max(touchpointData, d => d.total) + 1]);
+
+      const line = d3.line()
+        .x(d => xScale(d.year))
+        .y(d => yTouchpoints(d.total));
+
+      svg.selectAll('.touchpoint-line').data([touchpointData])
+        .join('path')
+        .attr('class', 'touchpoint-line')
+        .attr('d', line);
+
+      svg.selectAll('.touchpoint-dot')
+        .data(touchpointData)
+        .join('circle')
+        .attr('class', 'touchpoint-dot')
+        .attr('r', 4)
+        .attr('fill', '#4a148c')
+        .attr('cx', d => xScale(d.year))
+        .attr('cy', d => yTouchpoints(d.total))
+        .on('mouseenter', (e,d) => {
+          tooltip.style('opacity',1).html(`<strong>${d.total} touchpoints</strong><br/>Age ${d.year} y`)
+            .style('left', `${e.pageX}px`).style('top', `${e.pageY - 28}px`);
+        })
+        .on('mousemove', e => tooltip.style('left', `${e.pageX}px`).style('top', `${e.pageY - 28}px`))
+        .on('mouseleave', () => tooltip.style('opacity',0));
+    }
+  </script>
+</body>
+</html>
+

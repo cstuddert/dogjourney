@@ -1,0 +1,745 @@
+Breed,YR,Category,Tool Tip,Count,Product
+Poodle,0.0,Diet,"High-quality puppy food, high protein",1,Poodle Puppy 
+Poodle,0.0,Condition,Dewormer,1,Large Breed Puppy 
+Poodle,0.0,Vet Visit,,1,Puppy Wet
+Poodle,0.0,Medication,Preventatives,1,
+Poodle,1.0,Diet,High-quality adult dog food,1,Poodle Adult
+Poodle,1.0,Vet Visit,,1,Large Sensitive Skin Care Dry Dog Food
+Poodle,2.0,Condition,Dental issues,1,Dental Medium & Large Dog 
+Poodle,2.0,Vet Visit,,1,Large Dental Care Dry Dog Food
+Poodle,2.5,Vet Visit,,1,Large Dental Care Dry Dog Food
+Poodle,2.0,Medication,"Dental chews, pain relief",1,
+Poodle,3.0,Vet Visit,,1,
+Poodle,3.5,Vet Visit,,1,
+Poodle,4.0,Vet Visit,,1,
+Poodle,4.5,Vet Visit,,1,
+Poodle,5.0,Vet Visit,,1,
+Poodle,5.5,Vet Visit,,1,
+Poodle,6.0,Diet,Senior-specific diets (lower calories),1,Mature Consult Large Dog 
+Poodle,6.0,Condition,"Early signs of aging, vision changes",1,Poodle Pouch Wet Food 
+Poodle,6.0,Vet Visit,,1,
+Poodle,6.5,Vet Visit,,1,
+Poodle,6.0,Medication,"Pain relievers, heart meds",1,
+Poodle,7.0,Diet,High-quality senior food,1,Mature Consult Large Dog 
+Poodle,7.0,Condition,"Diabetes, kidney issues",1,Renal Support + Hydrolyzed Protein 
+Poodle,7.0,Vet Visit,,1,
+Poodle,7.5,Vet Visit,,1,
+Poodle,7.0,Medication,"Insulin, renal support meds",1,
+Poodle,8.0,Condition,"Cognitive dysfunction, arthritis",1,Poodle 8+
+Poodle,8.0,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,8.333333333333334,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,8.666666666666666,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,8.0,Medication,"Cognitive enhancers, pain meds",1,Advanced Mobility Support 
+Poodle,9.0,Diet,Senior diet with joint support,1,Joint Care Loaf in Sauce Canned Dog Food
+Poodle,9.0,Condition,"Liver problems, obesity",1,Poodle 8+
+Poodle,9.0,Vet Visit,Annual Check Up,1,Hepatic 
+Poodle,9.0,Medication,"Liver support, weight management",1,URINARY SO Aging 7+ 
+Poodle,10.0,Diet,Senior diet with joint support,1,Joint Care Loaf in Sauce Canned Dog Food
+Poodle,10.0,Condition,"Cancer, urinary problems",1,Poodle 8+
+Poodle,10.0,Vet Visit,,1,Poodle Pouch Wet Food 
+Poodle,10.333333333333334,Vet Visit,,1,Poodle Pouch Wet Food 
+Poodle,10.666666666666666,Vet Visit,,1,Poodle Pouch Wet Food 
+Poodle,10.0,Medication,Chemotherapy (if applicable),1,URINARY SO Aging 7+ 
+Poodle,11.0,Diet,Soft food (if dental issues),1,Poodle Pouch Wet Food 
+Poodle,11.0,Condition,"Heart disease, severe arthritis",1,Poodle 8+
+Poodle,11.0,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,11.333333333333334,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,11.666666666666666,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,11.0,Medication,"Heart meds, pain relief",1,Early Cardiac 
+Poodle,12.0,Diet,Caloric intake adjusted,1,Poodle Pouch Wet Food 
+Poodle,12.0,Condition,General health monitoring required,1,Poodle 8+
+Poodle,12.0,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,12.333333333333334,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,12.666666666666666,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,12.0,Medication,Various supportive meds,1,
+Poodle,13.0,Diet,Nutrient-rich diets (easy to chew),1,Poodle Pouch Wet Food 
+Poodle,13.0,Condition,Multiple health issues likely,1,Poodle 8+
+Poodle,13.0,Vet Visit,Annual Check Up,1,Large Breed Aging 8+ Senior 
+Poodle,13.0,Medication,"Palliative care, pain mgmt",1,
+Poodle,14.0,Diet,Highly digestible diet for seniors,1,Poodle Pouch Wet Food 
+Poodle,14.0,Condition,"Organ failure, severe arthritis",1,Poodle 8+
+Poodle,14.0,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,14.333333333333334,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,14.666666666666666,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,14.0,Medication,Organ support medications,1,Mature Adult in Gel Canned Dog Food
+Poodle,15.0,Condition,End of life considerations,1,Poodle 8+
+Poodle,15.0,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,15.333333333333334,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,15.666666666666666,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,15.0,Medication,Comfort care medications,1,Mature Adult in Gel Canned Dog Food
+Poodle,16.0,Condition,"Severe mobility issues, advanced core diseases",1,Poodle 8+
+Poodle,16.0,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,16.25,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,16.5,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,16.75,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,16.0,Medication,"Pain management, hospice care",1,Mature Adult in Gel Canned Dog Food
+Poodle,17.0,Condition,Multiple organ dysfunction,1,Large Breed Aging 8+ Senior 
+Poodle,17.0,Vet Visit,,1,Mature Adult in Gel Canned Dog Food
+Poodle,17.25,Vet Visit,,1,Mature Adult in Gel Canned Dog Food
+Poodle,17.5,Vet Visit,,1,Mature Adult in Gel Canned Dog Food
+Poodle,17.75,Vet Visit,,1,Mature Adult in Gel Canned Dog Food
+Poodle,17.0,Medication,Supportive care medications,1,
+Poodle,18.0,Condition,"End-of-life concerns, potential palliative care needs",1,Poodle 8+
+Poodle,18.0,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,18.25,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,18.5,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,18.75,Vet Visit,,1,Large Breed Aging 8+ Senior 
+Poodle,18.0,Medication,Comfort medications,1,Mature Adult in Gel Canned Dog Food
+Lab,0.0,Diet,Puppy,1,Labrador Retriever Puppy Breed Health Nutrition 
+Lab,0.0,Condition,Shots/Vaccinations,1,Puppy - Dry
+Lab,0.0,Vet Visit,,1,
+Lab,0.25,Vet Visit,,1,
+Lab,0.5,Vet Visit,,1,
+Lab,0.75,Vet Visit,,1,
+Lab,1.0,Diet,High-quality adult dog food,1,Labrador Retriever - Dry
+Lab,1.0,Vet Visit,,1,
+Lab,1.5,Vet Visit,,1,
+Lab,2.0,Vet Visit,,1,
+Lab,2.5,Vet Visit,,1,
+Lab,3.0,Condition,Dental issues,1,Large Dental Care Dry Dog Food
+Lab,3.0,Vet Visit,,1,Weight Control Large Dog 
+Lab,3.5,Vet Visit,,1,Weight Control Large Dog 
+Lab,3.0,Medication,Dental chews,1,
+Lab,4.0,Vet Visit,,1,Selected Protein PW Large Dog 
+Lab,4.5,Vet Visit,,1,Selected Protein PW Large Dog 
+Lab,5.0,Diet,Senior dog food may be introduced,1,Labrador Retriever 5+
+Lab,5.0,Vet Visit,,1,Advanced Mobility Support + Satiety 
+Lab,5.5,Vet Visit,,1,Advanced Mobility Support + Satiety 
+Lab,6.0,Diet,Senior-specific diets (lower calories),1,Labrador Retriever 5+
+Lab,6.0,Vet Visit,Annual Check up,1,Large Weight Care Dry
+Lab,7.0,Diet,Higher-quality senior diet,1,Early Cardiac 
+Lab,7.0,Condition,"Cognitive dysfunction, heart issues, Arthritis",1,Mature Consult Large Dog 
+Lab,7.0,Vet Visit,,1,Labrador Retriever 5+
+Lab,7.333333333333333,Vet Visit,,1,Labrador Retriever 5+
+Lab,7.666666666666667,Vet Visit,,1,Labrador Retriever 5+
+Lab,7.0,Medication,"Cognitive enhancers, heart medications, Supplements for Joints",1,
+Lab,8.0,Diet,"Joint support formulas, weight management",1,Mature Consult Large Dog 
+Lab,8.0,Condition,"Severe arthritis, urinary issues",1,Labrador Retriever 5+
+Lab,8.0,Vet Visit,,1,Large Joint Care Loaf
+Lab,8.25,Vet Visit,,1,Large Joint Care Loaf
+Lab,8.5,Vet Visit,,1,Large Joint Care Loaf
+Lab,8.75,Vet Visit,,1,Large Joint Care Loaf
+Lab,8.0,Medication,"Pain relievers, urinary support",1,
+Lab,9.0,Diet,Specialized diet for senior dogs,1,Renal Support + Advanced Mobility Support 
+Lab,9.0,Condition,"Cancer, kidney problems",1,Labrador Retriever 5+
+Lab,9.0,Vet Visit,,1,
+Lab,9.25,Vet Visit,,1,
+Lab,9.5,Vet Visit,,1,
+Lab,9.75,Vet Visit,,1,
+Lab,9.0,Medication,Chemotherapy (if applicable),1,
+Lab,10.0,Diet,Soft food (if dental issues),1,Mature Adult in Gel Canned Dog Food
+Lab,10.0,Condition,Severe mobility issues,1,Large Joint Care
+Lab,10.0,Vet Visit,,1,
+Lab,10.333333333333334,Vet Visit,,1,
+Lab,10.666666666666666,Vet Visit,,1,
+Lab,10.0,Medication,"Pain management, palliative care",1,
+Lab,11.0,Diet,Highly digestible diet,1,Labrador Retriever Adult Loaf
+Lab,11.0,Condition,"Heart disease, obesity",1,Mature Adult in Gel Canned Dog Food
+Lab,11.0,Vet Visit,,1,
+Lab,11.333333333333334,Vet Visit,,1,
+Lab,11.666666666666666,Vet Visit,,1,
+Lab,11.0,Medication,"Heart meds, dietary adjustments",1,
+Lab,12.0,Condition,"Organ dysfunction, multiple health issues",1,Mature Adult in Gel Canned Dog Food
+Lab,12.0,Vet Visit,,1,
+Lab,12.333333333333334,Vet Visit,,1,
+Lab,12.666666666666666,Vet Visit,,1,
+Lab,12.0,Medication,Supportive medications,1,
+Lab,13.0,Diet,Specialized diet for senior health,1,Labrador Retriever Adult Loaf
+Lab,13.0,Condition,End-of-life considerations,1,Large Comfort Care Dry Dog Food
+Lab,13.0,Vet Visit,,1,Comfort Care Loaf in Sauce Canned Dog Food
+Lab,13.333333333333334,Vet Visit,,1,Comfort Care Loaf in Sauce Canned Dog Food
+Lab,13.666666666666666,Vet Visit,,1,Comfort Care Loaf in Sauce Canned Dog Food
+Lab,13.0,Medication,Comfort care medications,1,
+Shih Tzu,0.0,Diet,High-quality puppy food rich in protein and fat,1,Small Breed Puppy  - Dry
+Shih Tzu,0.0,Condition,"Hypoglycemia, growth monitoring, dental care",1,Shih Tzu Puppy
+Shih Tzu,0.0,Vet Visit,,1,
+Shih Tzu,0.25,Vet Visit,,1,
+Shih Tzu,0.5,Vet Visit,,1,
+Shih Tzu,0.75,Vet Visit,,1,
+Shih Tzu,0.0,Medication,"Puppy vaccinations, deworming, flea prevention",1,
+Shih Tzu,1.0,Diet,"Transition to adult small-breed dog food, prevent obesity.",1,Shih Tzu Adult
+Shih Tzu,1.0,Condition,"Monitor for respiratory issues, dental checks",1,Small Dental Care Dry Dog Food
+Shih Tzu,1.0,Vet Visit,,1,Calm Small Dog 
+Shih Tzu,1.5,Vet Visit,,1,Calm Small Dog 
+Shih Tzu,2.0,Condition,"Patellar luxation, dental problems",1,Small Dental Care Dry Dog Food
+Shih Tzu,2.0,Vet Visit,,1,
+Shih Tzu,2.5,Vet Visit,,1,
+Shih Tzu,2.0,Medication,"Dental chews, joint supplements as needed",1,
+Shih Tzu,3.0,Vet Visit,,1,Shih Tzu Adult
+Shih Tzu,3.5,Vet Visit,,1,Shih Tzu Adult
+Shih Tzu,4.0,Diet,"Maintain a high-fiber diet for digestive health, monitor calorie intake.",1,Gastrointestinal High Fiber 
+Shih Tzu,4.0,Vet Visit,,1,Small Digestive Care Dry Dog Food
+Shih Tzu,5.0,Vet Visit,,1,Dental Small Dog 
+Shih Tzu,5.5,Vet Visit,,1,Dental Small Dog 
+Shih Tzu,6.0,Diet,"Senior diet if slowing down, high fiber for digestion, adequate hydration.",1,Gastrointestinal High Fiber 
+Shih Tzu,6.0,Condition,"Arthritis, increased dental issues",1,Small Digestive Care Dry Dog Food
+Shih Tzu,6.0,Vet Visit,,1,
+Shih Tzu,6.0,Medication,"Anti-inflammatory meds if needed, dental treats",1,
+Shih Tzu,7.0,Condition,"Heart disease, worsening arthritis",1,Shih Tzu Adult 
+Shih Tzu,7.0,Vet Visit,,1,
+Shih Tzu,7.5,Vet Visit,,1,
+Shih Tzu,7.0,Medication,"Heart health supplements, pain relief meds",1,
+Shih Tzu,8.0,Diet,"Continue senior diet, easy-to-chew foods, monitor weight.",1,Small Adult 8+
+Shih Tzu,8.0,Condition,"Reduced mobility, possible diabetes",1,Weight Control 
+Shih Tzu,8.0,Vet Visit,,1,
+Shih Tzu,8.5,Vet Visit,,1,
+Shih Tzu,8.0,Medication,Medications for chronic conditions,1,
+Shih Tzu,9.0,Diet,"Aging dog diet, high in fiber, moderate protein content, maintain hydration.",1,Small Adult 8+
+Shih Tzu,9.0,Condition,"Dementia symptoms, severe arthritis",1,Renal Support + Advanced Mobility Support 
+Shih Tzu,9.0,Vet Visit,,1,
+Shih Tzu,9.333333333333334,Vet Visit,,1,
+Shih Tzu,9.666666666666666,Vet Visit,,1,
+Shih Tzu,9.0,Medication,"Cognitive support supplements, arthritis meds",1,
+Shih Tzu,10.0,Condition,"Increased risk of cancers, kidney issues",1,Renal Support A (aromatic)
+Shih Tzu,10.0,Vet Visit,,1,
+Shih Tzu,10.5,Vet Visit,,1,
+Shih Tzu,10.0,Medication,"Specific condition medications, kidney support",1,
+Shih Tzu,11.0,Condition,"Increased risk of cancers, kidney issues",1,Joint Care Loaf in Sauce Canned Dog Food
+Shih Tzu,11.0,Vet Visit,,1,
+Shih Tzu,11.333333333333334,Vet Visit,,1,
+Shih Tzu,11.666666666666666,Vet Visit,,1,
+Shih Tzu,11.0,Medication,"Specific condition medications, kidney support",1,
+Shih Tzu,12.0,Diet,"High-quality, nutrient-dense diet, consider prescription diets if chronic issues arise.",1,"Renal Support E (enticing), Small Aging 12+"
+Shih Tzu,12.0,Condition,Heart and kidney disease,1,Small Aging 12+
+Shih Tzu,12.0,Vet Visit,,1,
+Shih Tzu,12.5,Vet Visit,,1,
+Shih Tzu,12.0,Medication,Tailored medications as needed,1,
+Shih Tzu,13.0,Condition,Heart and kidney disease,1,Renal Support F (flavorful)
+Shih Tzu,13.0,Vet Visit,,1,
+Shih Tzu,13.5,Vet Visit,,1,
+Shih Tzu,13.0,Medication,Tailored medications as needed,1,
+Shih Tzu,14.0,Diet,Soft and palatable foods.,1,Small Aging 12+
+Shih Tzu,14.0,Condition,"Advanced mobility issues, cognitive decline",1,Renal Support T (tasty)
+Shih Tzu,14.0,Vet Visit,,1,
+Shih Tzu,14.333333333333334,Vet Visit,,1,
+Shih Tzu,14.666666666666666,Vet Visit,,1,
+Shih Tzu,14.0,Medication,"Cognitive and joint health support, specific meds",1,
+Shih Tzu,15.0,Condition,"Advanced mobility issues, cognitive decline",1,Renal Support + Advanced Mobility Support
+Shih Tzu,15.0,Vet Visit,,1,
+Shih Tzu,15.333333333333334,Vet Visit,,1,
+Shih Tzu,15.666666666666666,Vet Visit,,1,
+Shih Tzu,15.0,Medication,"Cognitive and joint health support, specific meds",1,
+Shih Tzu,16.0,Diet,Focus on comfort in digestion and chewing.,1,Small Aging 12+
+Shih Tzu,16.0,Condition,"Severe chronic conditions, quality of life monitoring",1,Small Digestive Care Dry Dog Food
+Shih Tzu,16.0,Vet Visit,,1,Advanced Mobility Support + Satiety 
+Shih Tzu,16.333333333333332,Vet Visit,,1,Advanced Mobility Support + Satiety 
+Shih Tzu,16.666666666666668,Vet Visit,,1,Advanced Mobility Support + Satiety 
+Shih Tzu,16.0,Medication,"Palliative care meds, ongoing condition-specific medication",1,
+Shih Tzu,17.0,Condition,"Severe chronic conditions, quality of life monitoring",1,Mature Adult in Gel Canned
+Shih Tzu,17.0,Vet Visit,,1,Small Digestive Care Dry Dog Food
+Shih Tzu,17.25,Vet Visit,,1,Small Digestive Care Dry Dog Food
+Shih Tzu,17.5,Vet Visit,,1,Small Digestive Care Dry Dog Food
+Shih Tzu,17.75,Vet Visit,,1,Small Digestive Care Dry Dog Food
+Shih Tzu,17.0,Medication,"Palliative care meds, ongoing condition-specific medication",1,
+Shih Tzu,18.0,Condition,"Severe chronic conditions, quality of life monitoring",1,Mature Adult in Gel Canned
+Shih Tzu,18.0,Vet Visit,,1,
+Shih Tzu,18.25,Vet Visit,,1,
+Shih Tzu,18.5,Vet Visit,,1,
+Shih Tzu,18.75,Vet Visit,,1,
+Shih Tzu,18.0,Medication,"Palliative care meds, ongoing condition-specific medication",1,
+English Bulldog,0.0,Diet,"High-quality puppy food, balanced with proteins, fats, carbs.",1,Medium Breed Puppy 
+English Bulldog,0.0,Condition,"Hip dysplasia, skin allergies, respiratory issues",1,Hydrolyzed Protein Puppy 
+English Bulldog,0.0,Vet Visit,,1,
+English Bulldog,0.25,Vet Visit,,1,
+English Bulldog,0.5,Vet Visit,,1,
+English Bulldog,0.75,Vet Visit,,1,
+English Bulldog,0.0,Medication,"Puppy vaccinations, parasite control",1,
+English Bulldog,1.0,Diet,"Adult dog food, monitor weight. Consider grain-free if allergies present.",1,Bulldog Adult 
+English Bulldog,1.0,Condition,"Hip dysplasia, obesity, skin issues",1,Hydrolyzed Protein Moderate Calorie 
+English Bulldog,1.0,Vet Visit,,1,Medium Sensitive Skin Care Dry Dog Food
+English Bulldog,1.3333333333333333,Vet Visit,,1,Medium Sensitive Skin Care Dry Dog Food
+English Bulldog,1.6666666666666665,Vet Visit,,1,Medium Sensitive Skin Care Dry Dog Food
+English Bulldog,2.0,Vet Visit,,1,
+English Bulldog,2.5,Vet Visit,,1,
+English Bulldog,3.0,Diet,"Weight management, introduce age-related formulas for medium breeds.",1,Weight Control Medium Dog 
+English Bulldog,3.0,Condition,"Eye issues (cherry eye), Brachycephalic airway syndrome",1,Medium Adult 
+English Bulldog,3.0,Vet Visit,,1,
+English Bulldog,3.5,Vet Visit,,1,
+English Bulldog,3.0,Medication,,1,
+English Bulldog,4.0,Vet Visit,,1,
+English Bulldog,5.0,Condition,"Arthritis, obesity, respiratory issues may worsen",1,Joint Care Loaf in Sauce Canned Dog Food
+English Bulldog,5.0,Vet Visit,,1,
+English Bulldog,5.5,Vet Visit,,1,
+English Bulldog,6.0,Diet,"Senior diet if needed, monitor weight and nutritional needs",1,Hydrolyzed Protein Moderate Calorie 
+English Bulldog,6.0,Condition,"Increased risk of cancer, arthritis",1,Mature Consult Medium Dog 
+English Bulldog,6.0,Vet Visit,,1,Renal Support Early Consult 
+English Bulldog,6.0,Medication,,1,
+English Bulldog,7.0,Condition,"Heart disease, diabetes, continued joint issues",1,Gastrointestinal Low Fat + Hydrolyzed Protein 
+English Bulldog,7.0,Vet Visit,,1,Renal Support + Advanced Mobility Support 
+English Bulldog,7.5,Vet Visit,,1,Renal Support + Advanced Mobility Support 
+English Bulldog,7.0,Medication,,1,
+English Bulldog,8.0,Condition,"Reduced mobility, worsening of chronic conditions",1,Joint Care Loaf in Sauce Canned Dog Food
+English Bulldog,8.0,Vet Visit,,1,
+English Bulldog,8.5,Vet Visit,,1,
+English Bulldog,8.0,Medication,,1,
+English Bulldog,9.0,Diet,"Tailor diet closely to needs, often lower in calories, easy to chew.",1,Hydrolyzed Protein Moderate Calorie 
+English Bulldog,9.0,Condition,"Increased risk of tumors, severe arthritis, dental disease",1,Medium Dental Care Dry Dog Food
+English Bulldog,9.0,Vet Visit,,1,
+English Bulldog,9.333333333333334,Vet Visit,,1,
+English Bulldog,9.666666666666666,Vet Visit,,1,
+English Bulldog,9.0,Medication,,1,
+English Bulldog,10.0,Condition,Severe mobility issues,1,Adult in Gel Canned
+English Bulldog,10.0,Vet Visit,,1,
+English Bulldog,10.25,Vet Visit,,1,
+English Bulldog,10.5,Vet Visit,,1,
+English Bulldog,10.75,Vet Visit,,1,
+English Bulldog,10.0,Medication,,1,
+English Bulldog,11.0,Diet,Nutrient-rich diets easy to digest,1,Weight Control Medium Dog 
+English Bulldog,11.0,Condition,"Heart disease, obesity",1,Mature Consult Medium Dog 
+English Bulldog,11.0,Vet Visit,,1,
+English Bulldog,11.25,Vet Visit,,1,
+English Bulldog,11.5,Vet Visit,,1,
+English Bulldog,11.75,Vet Visit,,1,
+English Bulldog,11.0,Medication,,1,
+English Bulldog,12.0,Condition,"Organ dysfunction, multiple health issues",1,Comfort Care Loaf in Sauce Canned Dog Food
+English Bulldog,12.0,Vet Visit,,1,
+English Bulldog,12.25,Vet Visit,,1,
+English Bulldog,12.5,Vet Visit,,1,
+English Bulldog,12.75,Vet Visit,,1,
+English Bulldog,12.0,Medication,,1,
+English Bulldog,13.0,Diet,Specialized diet for senior health,1,Mature Adult in Gel Canned Dog Food
+English Bulldog,13.0,Condition,End-of-life considerations,1,Comfort Care Loaf in Sauce Canned Dog Food
+English Bulldog,13.0,Vet Visit,,1,
+English Bulldog,13.25,Vet Visit,,1,
+English Bulldog,13.5,Vet Visit,,1,
+English Bulldog,13.75,Vet Visit,,1,
+English Bulldog,13.0,Medication,,1,
+Chihuahua,0.0,Diet,"Puppy Food, Small Breed Formula",1,Small Breed Puppy - dry
+Chihuahua,0.0,Condition,None,1,
+Chihuahua,0.0,Vet Visit,,1,
+Chihuahua,0.3333333333333333,Vet Visit,,1,
+Chihuahua,0.6666666666666666,Vet Visit,,1,
+Chihuahua,0.0,Medication,"Deworming, Vaccinations",1,
+Chihuahua,1.0,Diet,"Puppy Food, Small Breed Formula",1,Small Breed Puppy - dry
+Chihuahua,1.0,Condition,Teething,1,
+Chihuahua,1.0,Vet Visit,,1,
+Chihuahua,1.5,Vet Visit,,1,
+Chihuahua,2.0,Diet,Transition to adult small breed food,1,Chihuahua Adult - wet
+Chihuahua,2.0,Vet Visit,,1,
+Chihuahua,2.5,Vet Visit,,1,
+Chihuahua,3.0,Vet Visit,,1,Dental Small dog
+Chihuahua,4.0,Vet Visit,,1,
+Chihuahua,5.0,Condition,"Joint discomfort, dental ",1,Advanced Mobility Support
+Chihuahua,5.0,Vet Visit,,1,Dental Small dog
+Chihuahua,5.0,Medication,"Pain relief, dental gel",1,
+Chihuahua,6.0,Condition,"Early heart murmur, arthritis",1,Early Cardiac
+Chihuahua,6.0,Vet Visit,,1,
+Chihuahua,6.5,Vet Visit,,1,
+Chihuahua,6.0,Medication,"Glucosamine, heart support",1,
+Chihuahua,7.0,Condition,"Arthritis, cataracts",1,Advanced Mobility Support
+Chihuahua,7.0,Vet Visit,,1,
+Chihuahua,7.5,Vet Visit,,1,
+Chihuahua,7.0,Medication,"Arthritis meds, eye support",1,
+Chihuahua,8.0,Diet,Transition Senior Diet  ,1,X-small Adult 8+
+Chihuahua,8.0,Condition,"Dental disease, weight gain",1,Dental Small dog
+Chihuahua,8.0,Vet Visit,,1,Weight Control
+Chihuahua,8.5,Vet Visit,,1,Weight Control
+Chihuahua,8.0,Medication,"Dental meds, weight control",1,
+Chihuahua,9.0,Condition,"Joint stiffness, vision issues",1,Chihuahua Adult - wet
+Chihuahua,9.0,Vet Visit,,1,Advanced Mobility Support
+Chihuahua,9.5,Vet Visit,,1,Advanced Mobility Support
+Chihuahua,9.0,Medication,"Joint supplements, eye support",1,
+Chihuahua,10.0,Diet,Senior diet with joint supplements,1,X-small Adult 8+
+Chihuahua,10.0,Condition,"Heart issues, arthritis",1,Advanced Mobility Support
+Chihuahua,10.0,Vet Visit,,1,Chihuahua Adult - wet
+Chihuahua,10.333333333333334,Vet Visit,,1,Chihuahua Adult - wet
+Chihuahua,10.666666666666666,Vet Visit,,1,Chihuahua Adult - wet
+Chihuahua,10.0,Medication,"Heart meds, anti-inflammatory",1,Early Cardiac
+Chihuahua,11.0,Diet,Senior diet with low-fat content,1,X-small Adult 8+
+Chihuahua,11.0,Condition,"Kidney function decline, vision loss",1,Chihuahua Adult - wet
+Chihuahua,11.0,Vet Visit,,1,Renal Support  
+Chihuahua,11.333333333333334,Vet Visit,,1,Renal Support  
+Chihuahua,11.666666666666666,Vet Visit,,1,Renal Support  
+Chihuahua,11.0,Medication,"Kidney supplements, vision support",1,
+Chihuahua,12.0,Diet,Kidney-support diet,1,X-small Adult 8+
+Chihuahua,12.0,Condition,"Kidney disease, dental disease",1,Chihuahua Adult - wet
+Chihuahua,12.0,Vet Visit,,1,Renal Support  
+Chihuahua,12.25,Vet Visit,,1,Renal Support  
+Chihuahua,12.5,Vet Visit,,1,Renal Support  
+Chihuahua,12.75,Vet Visit,,1,Renal Support  
+Chihuahua,12.0,Medication,"Kidney meds, dental care",1,Dental Small dog
+Chihuahua,13.0,Diet,"Low-protein, heart-friendly diet",1,X-small Adult 8+
+Chihuahua,13.0,Condition,"Heart disease, hearing loss",1,Chihuahua Adult - wet
+Chihuahua,13.0,Vet Visit,,1,Chihuahua Loaf in Sauce
+Chihuahua,13.25,Vet Visit,,1,Chihuahua Loaf in Sauce
+Chihuahua,13.5,Vet Visit,,1,Chihuahua Loaf in Sauce
+Chihuahua,13.75,Vet Visit,,1,Chihuahua Loaf in Sauce
+Chihuahua,13.0,Medication,"Heart meds, appetite stimulants",1,Early Cardiac
+Chihuahua,14.0,Diet,Soft food for dental issues,1,X-small Adult 8+
+Chihuahua,14.0,Condition,"Several dental disease, muscle loss",1,Chihuahua Adult - wet
+Chihuahua,14.0,Vet Visit,,1,Dental Small dog
+Chihuahua,14.25,Vet Visit,,1,Dental Small dog
+Chihuahua,14.5,Vet Visit,,1,Dental Small dog
+Chihuahua,14.75,Vet Visit,,1,Dental Small dog
+Chihuahua,14.0,Medication,"Pain relief, digestive aids",1,Renal Support  
+Chihuahua,15.0,Diet,"Soft food, fortified senior formula",1,Chihuahua Loaf in Sauce
+Chihuahua,15.0,Condition,"Cognitive dysfunction, frailty",1,Pill Assist Small Dog
+Chihuahua,15.0,Vet Visit,,1,Advanced Mobility Support
+Chihuahua,15.25,Vet Visit,,1,Advanced Mobility Support
+Chihuahua,15.5,Vet Visit,,1,Advanced Mobility Support
+Chihuahua,15.75,Vet Visit,,1,Advanced Mobility Support
+Chihuahua,15.0,Medication,"Cognitive support, mobility aids",1,
+Husky,0.0,Diet,"Puppy food, high-protein",1,Medium Breed Puppy
+Husky,0.0,Condition,None,1,
+Husky,0.0,Vet Visit,,1,
+Husky,0.3333333333333333,Vet Visit,,1,
+Husky,0.6666666666666666,Vet Visit,,1,
+Husky,0.0,Medication,"Vaccinations, Deworming",1,
+Husky,1.0,Diet,"Puppy food, omega-3",1,Medium Breed Puppy
+Husky,1.0,Condition,"Teething, growth spurts",1,
+Husky,1.0,Vet Visit,,1,
+Husky,1.5,Vet Visit,,1,
+Husky,1.0,Medication,"Teething aids, flea prevention",1,
+Husky,2.0,Diet,Transition to Adult Active Breed,1,Medium Adult
+Husky,2.0,Vet Visit,,1,
+Husky,2.5,Vet Visit,,1,
+Husky,3.0,Vet Visit,,1,
+Husky,4.0,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+Husky,5.0,Condition,"Joint stiffness, dental ",1,Joint Care Loaf in Sauce Canned Dog Food
+Husky,5.0,Vet Visit,,1,
+Husky,5.0,Medication,"Pain relief, dental chews",1,
+Husky,6.0,Vet Visit,,1,
+Husky,6.5,Vet Visit,,1,
+Husky,7.0,Diet,"Senior diet Transition, joint health",1,Medium Adult Aging 7+
+Husky,7.0,Condition,"Arthritis, dental issues, cataracts",1,Medium Dental Care 
+Husky,7.0,Vet Visit,,1,Advanced Mobility Support
+Husky,7.5,Vet Visit,,1,Advanced Mobility Support
+Husky,7.0,Medication,"Anti-inflammatory, dental rinse, eye care",1,Joint Care Loaf in Sauce Canned Dog Food
+Husky,8.0,Condition,"Weight gain, hearing loss",1,Weight Control Large Dog
+Husky,8.0,Vet Visit,,1,
+Husky,8.5,Vet Visit,,1,
+Husky,8.0,Medication,"Weight control, ear drops",1,
+Husky,9.0,Diet,"Senior diet, fortified nutrients",1,Medium Adult Aging 7+
+Husky,9.0,Condition,"Vision decline, mobility issues",1,Advanced Mobility Support
+Husky,9.0,Vet Visit,,1,
+Husky,9.5,Vet Visit,,1,
+Husky,9.0,Medication,"Mobility aids, eye support",1,
+Husky,10.0,Diet,Low-fat senior diet,1,Medium Adult Aging 10+
+Husky,10.0,Condition,"Heart issues, dental disease",1,Medium Dental Care 
+Husky,10.0,Vet Visit,,1,Early Cardiac
+Husky,10.333333333333334,Vet Visit,,1,Early Cardiac
+Husky,10.666666666666666,Vet Visit,,1,Early Cardiac
+Husky,10.0,Medication,"Heart meds, anti-inflammatroy",1,
+Husky,11.0,Diet,Kidney-support diet,1,Medium Adult Aging 10+
+Husky,11.0,Condition,Kidney function decline,1,Renal Support E
+Husky,11.0,Vet Visit,,1,Renal Support Liquid
+Husky,11.333333333333334,Vet Visit,,1,Renal Support Liquid
+Husky,11.666666666666666,Vet Visit,,1,Renal Support Liquid
+Husky,11.0,Medication,"Kidney meds, dietary supplements",1,
+Husky,12.0,Diet,"Heart-friendly, soft food",1,Medium Adult Aging 10+
+Husky,12.0,Condition,"Heart disease, joint degeneration",1,Early Cardiac
+Husky,12.0,Vet Visit,,1,Renal Support E
+Husky,12.25,Vet Visit,,1,Renal Support E
+Husky,12.5,Vet Visit,,1,Renal Support E
+Husky,12.75,Vet Visit,,1,Renal Support E
+Husky,12.0,Medication,"Heart support, pain reliev",1,Renal Support Liquid
+Husky,13.0,Diet,"Low-protein, digestible diet",1,Medium Adult Aging 10+
+Husky,13.0,Condition,"Muscle loss, fatigue",1,Vegetarian
+Husky,13.0,Vet Visit,,1,Selected Protein PR
+Husky,13.25,Vet Visit,,1,Selected Protein PR
+Husky,13.5,Vet Visit,,1,Selected Protein PR
+Husky,13.75,Vet Visit,,1,Selected Protein PR
+Husky,13.0,Medication,"Muscle support, appetite boosters",1,
+Husky,14.0,Diet,"High-fiber, soft food",1,Medium Adult Aging 10+
+Husky,14.0,Condition,"Cognitive decline, vision loss",1,Gastrointestinal High Fiber
+Husky,14.0,Vet Visit,,1,
+Husky,14.25,Vet Visit,,1,
+Husky,14.5,Vet Visit,,1,
+Husky,14.75,Vet Visit,,1,
+Husky,14.0,Medication,"Cognititive aids, vision care",1,
+Husky,15.0,Diet,"Fortified senior diet, soft texture",1,Medium Adult Aging 10+
+Husky,15.0,Condition,Advanced arthritis frailty,1,Gastrointestinal High Fiber
+Husky,15.0,Vet Visit,,1,Advanced Mobility Support
+Husky,15.25,Vet Visit,,1,Advanced Mobility Support
+Husky,15.5,Vet Visit,,1,Advanced Mobility Support
+Husky,15.75,Vet Visit,,1,Advanced Mobility Support
+Husky,15.0,Medication,"Mobility support, anti-inflammatory",1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,0.0,Diet,"Large breed puppy food, DHA enriched",1,German Shepherd Puppy Food
+German Shepherd,0.0,Condition,,1,
+German Shepherd,0.0,Vet Visit,,1,
+German Shepherd,0.3333333333333333,Vet Visit,,1,
+German Shepherd,0.6666666666666666,Vet Visit,,1,
+German Shepherd,0.0,Medication,"Vaccinations, Deworming",1,
+German Shepherd,1.0,Diet,Puppy Food with joint support,1,German Shepherd Puppy Food
+German Shepherd,1.0,Condition,"Rapid growth, hip monitoring",1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,1.0,Vet Visit,,1,
+German Shepherd,1.5,Vet Visit,,1,
+German Shepherd,1.0,Medication,Joint support,1,
+German Shepherd,2.0,Diet,Transition to adult large breed food,1,German Shepherd Adult Food
+German Shepherd,2.0,Vet Visit,,1,Gastrointestinal
+German Shepherd,2.5,Vet Visit,,1,Gastrointestinal
+German Shepherd,3.0,Vet Visit,,1,
+German Shepherd,4.0,Vet Visit,,1,Gastrointestinal
+German Shepherd,5.0,Diet,Adult diet with joint support,1,German Shepherd Adult 5+
+German Shepherd,5.0,Vet Visit,,1,Medium Dental Care 
+German Shepherd,6.0,Condition,"Hip dysplasia, eye changes",1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,6.0,Vet Visit,,1,
+German Shepherd,6.5,Vet Visit,,1,
+German Shepherd,6.0,Medication,"Joint meds, eye supplements",1,
+German Shepherd,7.0,Vet Visit,,1,Medium Dental Care 
+German Shepherd,7.5,Vet Visit,,1,Medium Dental Care 
+German Shepherd,7.0,Medication,"Anti-inflammatory, dental rinse",1,
+German Shepherd,8.0,Diet,Senior transition formula,1,Large 8+
+German Shepherd,8.0,Condition,"Arthritis, Weight gain, reduced mobility",1,"Weight Control Large Dog, Joint Care Loaf in Sauce Canned Dog Food"
+German Shepherd,8.0,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,8.5,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,8.0,Medication,Weight management aids,1,
+German Shepherd,9.0,Condition,"Cataracts, heart murmer",1,Early Cardiac
+German Shepherd,9.0,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+German Shepherd,9.5,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+German Shepherd,9.0,Medication,"Vision supplements, heart meds",1,
+German Shepherd,10.0,Diet,"Heart-friendly, soft kibble",1,Large 8+
+German Shepherd,10.0,Condition,"Heart disease, arthritis",1,Early Cardiac
+German Shepherd,10.0,Vet Visit,,1,Large Comfort
+German Shepherd,10.333333333333334,Vet Visit,,1,Large Comfort
+German Shepherd,10.666666666666666,Vet Visit,,1,Large Comfort
+German Shepherd,10.0,Medication,"Heart meds, anti-inflammatory",1,
+German Shepherd,11.0,Diet,Kidney-friendly senior diet,1,Large 8+
+German Shepherd,11.0,Condition,"Kidney decline, vission loss",1,Early Cardiac
+German Shepherd,11.0,Vet Visit,,1,Large Comfort
+German Shepherd,11.333333333333334,Vet Visit,,1,Large Comfort
+German Shepherd,11.666666666666666,Vet Visit,,1,Large Comfort
+German Shepherd,11.0,Medication,Kidney support meds,1,Renal Support D (delectable) Thin Slices in Gravy
+German Shepherd,12.0,Diet,Heart and joint support diet,1,Large 8+
+German Shepherd,12.0,Condition,Heart and liver strain,1,Early Cardiac
+German Shepherd,12.0,Vet Visit,,1,Renal Support D (delectable) Thin Slices in Gravy
+German Shepherd,12.25,Vet Visit,,1,Renal Support D (delectable) Thin Slices in Gravy
+German Shepherd,12.5,Vet Visit,,1,Renal Support D (delectable) Thin Slices in Gravy
+German Shepherd,12.75,Vet Visit,,1,Renal Support D (delectable) Thin Slices in Gravy
+German Shepherd,12.0,Medication,"Liver support, heart medication",1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,13.0,Diet,"Digestible, high-fiber diet",1,"Mature Consult Large, Loaf"
+German Shepherd,13.0,Condition,"Cognitive decline, incontinence",1,"Urinary SO Aging 7+, Wet Thin Slices"
+German Shepherd,13.0,Vet Visit,,1,
+German Shepherd,13.25,Vet Visit,,1,
+German Shepherd,13.5,Vet Visit,,1,
+German Shepherd,13.75,Vet Visit,,1,
+German Shepherd,13.0,Medication,"Cognitive aids, bladder control",1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,14.0,Diet,"Soft, nutrient-rich diet",1,"Mature Consult Large, Loaf"
+German Shepherd,14.0,Condition,"Severe arthritis, muscle loss",1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,14.0,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+German Shepherd,14.25,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+German Shepherd,14.5,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+German Shepherd,14.75,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+German Shepherd,14.0,Medication,"Pain relief, mobility aids ",1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,15.0,Diet,Fortified diet for advanced age,1,"Mature Consult Large, Loaf"
+German Shepherd,15.0,Condition,"Frailty, chronic pain",1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+German Shepherd,15.0,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,15.25,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,15.5,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,15.75,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+German Shepherd,15.0,Medication,"Nutritional support, anti-inflammatory",1,
+Dachshund,0.0,Diet,"Small breed puppy food, calcium balanced",1,Dachshund Puppy
+Dachshund,0.0,Condition,,1,
+Dachshund,0.0,Vet Visit,,1,
+Dachshund,0.3333333333333333,Vet Visit,,1,
+Dachshund,0.6666666666666666,Vet Visit,,1,
+Dachshund,0.0,Medication,"Vaccinations, deworming",1,
+Dachshund,1.0,Condition,"Teething, back monitoring",1,Advanced Mobility Support
+Dachshund,1.0,Vet Visit,,1,
+Dachshund,1.5,Vet Visit,,1,
+Dachshund,1.0,Medication,"Flea control, teething aids",1,
+Dachshund,2.0,Diet,Transition to adult small breed food,1,Dachshund  Adult
+Dachshund,2.0,Vet Visit,,1,
+Dachshund,2.5,Vet Visit,,1,
+Dachshund,3.0,Vet Visit,,1,Weight Control
+Dachshund,4.0,Vet Visit,,1,
+Dachshund,5.0,Vet Visit,,1,Dental Small dog
+Dachshund,6.0,Condition,"Intervertebral disc disease signs, arthritis",1,"Early Cardiac, Advanced Mobility Support"
+Dachshund,6.0,Vet Visit,,1,Pill Assist Small Dog
+Dachshund,6.5,Vet Visit,,1,Pill Assist Small Dog
+Dachshund,6.0,Medication,"Joint meds, back support",1,
+Dachshund,7.0,Condition,"Back pain, vision changes",1,Advanced Mobility Support
+Dachshund,7.0,Vet Visit,,1,Pill Assist Small Dog
+Dachshund,7.5,Vet Visit,,1,Pill Assist Small Dog
+Dachshund,7.0,Medication,"Back pain meds, eye drops",1,
+Dachshund,8.0,Diet,"Transition to Senior diet, low fat",1,Dachshund 8+ Adult Dry Dog Food
+Dachshund,8.0,Condition,"Weight gain, dental disease",1,Dachshund 8+ Adult Dry Dog Food
+Dachshund,8.0,Vet Visit,,1,Dental Small dog
+Dachshund,8.5,Vet Visit,,1,Dental Small dog
+Dachshund,8.0,Medication,"Dental care, weight control",1,Weight Control
+Dachshund,9.0,Condition,"Mobility issues, cataracts",1,
+Dachshund,9.0,Vet Visit,,1,Advanced Mobility Support
+Dachshund,9.5,Vet Visit,,1,Advanced Mobility Support
+Dachshund,9.0,Medication,"Mobility support, eye meds",1,Pill Assist Small Dog
+Dachshund,10.0,Condition,"Heart murmur, arthritis",1,X-small Adult 8+
+Dachshund,10.0,Vet Visit,,1,Advanced Mobility Support
+Dachshund,10.333333333333334,Vet Visit,,1,Advanced Mobility Support
+Dachshund,10.666666666666666,Vet Visit,,1,Advanced Mobility Support
+Dachshund,10.0,Medication,"Heart meds, arthritis meds",1,Early Cardiac
+Dachshund,11.0,Diet,"Kidney support, senior food",1,Dachshund  Adult - Loaf
+Dachshund,11.0,Condition,"Kidney decline, back issues",1,X-small Adult 8+
+Dachshund,11.0,Vet Visit,,1,Advanced Mobility Support
+Dachshund,11.333333333333334,Vet Visit,,1,Advanced Mobility Support
+Dachshund,11.666666666666666,Vet Visit,,1,Advanced Mobility Support
+Dachshund,11.0,Medication,"Kidney support, back pain relief",1,Renal Support  
+Dachshund,12.0,Diet,"Low-protein, joint support diet",1,Dachshund  Adult - Loaf in Pouch
+Dachshund,12.0,Condition,Heart and joint problems,1,X-small Adult 8+
+Dachshund,12.0,Vet Visit,,1,Advanced Mobility Support
+Dachshund,12.25,Vet Visit,,1,Advanced Mobility Support
+Dachshund,12.5,Vet Visit,,1,Advanced Mobility Support
+Dachshund,12.75,Vet Visit,,1,Advanced Mobility Support
+Dachshund,12.0,Medication,Joint and heart meds,1,Early Cardiac
+Dachshund,13.0,Diet,"Digestive support, easy to chew",1,Dachshund  Adult - Loaf in Pouch
+Dachshund,13.0,Condition,"Cognitive decline, muscle atrophy",1,X-small Adult 8+
+Dachshund,13.0,Vet Visit,,1,Advanced Mobility Support
+Dachshund,13.25,Vet Visit,,1,Advanced Mobility Support
+Dachshund,13.5,Vet Visit,,1,Advanced Mobility Support
+Dachshund,13.75,Vet Visit,,1,Advanced Mobility Support
+Dachshund,13.0,Medication,"Cognitive supplements, muscle support",1,
+Dachshund,14.0,Diet,"High-fiber, fortified diet",1,Dachshund  Adult - Loaf in Pouch
+Dachshund,14.0,Condition,"Severe arthritis, incontinence",1,Mature Consult - Wet
+Dachshund,14.0,Vet Visit,,1,Advanced Mobility Support
+Dachshund,14.25,Vet Visit,,1,Advanced Mobility Support
+Dachshund,14.5,Vet Visit,,1,Advanced Mobility Support
+Dachshund,14.75,Vet Visit,,1,Advanced Mobility Support
+Dachshund,14.0,Medication,"Pain relief, bladder control",1,Renal Support  
+Dachshund,15.0,Diet,Soft food for aging dogs,1,Dachshund  Adult - Loaf in Pouch
+Dachshund,15.0,Condition,"Frailty, chronic conditions",1,Mature Consult - Wet
+Dachshund,15.0,Vet Visit,,1,Advanced Mobility Support
+Dachshund,15.25,Vet Visit,,1,Advanced Mobility Support
+Dachshund,15.5,Vet Visit,,1,Advanced Mobility Support
+Dachshund,15.75,Vet Visit,,1,Advanced Mobility Support
+Dachshund,15.0,Medication,Comprehensive senior meds,1,Renal Support  
+Yorkshire Terrier,0.0,Diet,"Small breed puppy food, DHA enriched",1,Yorkshire Terrier Puppy 
+Yorkshire Terrier,0.0,Condition,Teething,1,
+Yorkshire Terrier,0.0,Vet Visit,,1,
+Yorkshire Terrier,0.3333333333333333,Vet Visit,,1,
+Yorkshire Terrier,0.6666666666666666,Vet Visit,,1,
+Yorkshire Terrier,0.0,Medication,"Vaccinations, deworming",1,
+Yorkshire Terrier,1.0,Diet,Puppy food with omega-3,1,Yorkshire Terrier Puppy 
+Yorkshire Terrier,1.0,Vet Visit,,1,
+Yorkshire Terrier,1.5,Vet Visit,,1,
+Yorkshire Terrier,2.0,Diet,Transition to adult small breed food,1,Yorkshire Terrier Adult
+Yorkshire Terrier,2.0,Vet Visit,,1,Canine Recovery Ultra Soft Mousse in Sauce
+Yorkshire Terrier,2.5,Vet Visit,,1,Canine Recovery Ultra Soft Mousse in Sauce
+Yorkshire Terrier,3.0,Vet Visit,,1,Weight Control
+Yorkshire Terrier,4.0,Vet Visit,,1,Weight Control
+Yorkshire Terrier,5.0,Vet Visit,,1,Skintopic Small Dog 
+Yorkshire Terrier,5.0,Medication,"Skin meds, pain relief",1,
+Yorkshire Terrier,6.0,Condition,"Vision decline, joint stiffness",1,Advanced Mobility Support
+Yorkshire Terrier,6.0,Vet Visit,,1,
+Yorkshire Terrier,6.5,Vet Visit,,1,
+Yorkshire Terrier,6.0,Medication,"Joint supplements, eye drops",1,
+Yorkshire Terrier,7.0,Condition,"Arthritis, dental disease",1,Advanced Mobility Support
+Yorkshire Terrier,7.0,Vet Visit,,1,
+Yorkshire Terrier,7.5,Vet Visit,,1,
+Yorkshire Terrier,7.0,Medication,"Dental meds, arthritis support",1,
+Yorkshire Terrier,8.0,Diet,"Senior food, reduced fat",1,Yorkshire Terrier 8+
+Yorkshire Terrier,8.0,Condition,"Heart murmur, weight gain",1,X-small Adult 8+
+Yorkshire Terrier,8.0,Vet Visit,,1,Satiety Treats
+Yorkshire Terrier,8.5,Vet Visit,,1,Satiety Treats
+Yorkshire Terrier,8.0,Medication,"Heart support, weight control",1,Weight Control
+Yorkshire Terrier,9.0,Condition,"Mobility issues, eye clouding",1,Satiety Support Weight Management Loaf
+Yorkshire Terrier,9.0,Vet Visit,,1,Advanced Mobility Support
+Yorkshire Terrier,9.5,Vet Visit,,1,Advanced Mobility Support
+Yorkshire Terrier,9.0,Medication,"Mobility aids, eye care",1,
+Yorkshire Terrier,10.0,Diet,"Heart-friendly, easy to chew",1,Yorkshire Terrier 8+
+Yorkshire Terrier,10.0,Condition,"Heart issues, arthritis",1,X-small Adult 8+
+Yorkshire Terrier,10.0,Vet Visit,,1,Advanced Mobility Support
+Yorkshire Terrier,10.333333333333334,Vet Visit,,1,Advanced Mobility Support
+Yorkshire Terrier,10.666666666666666,Vet Visit,,1,Advanced Mobility Support
+Yorkshire Terrier,10.0,Medication,"Heart meds, anti-inflammatory",1,Early Cardiac
+Yorkshire Terrier,11.0,Diet,Kidney support food,1,Yorkshire Terrier 8+
+Yorkshire Terrier,11.0,Condition,Kidney and liver decline,1,X-small Adult 8+
+Yorkshire Terrier,11.0,Vet Visit,,1,Renal Support  
+Yorkshire Terrier,11.333333333333334,Vet Visit,,1,Renal Support  
+Yorkshire Terrier,11.666666666666666,Vet Visit,,1,Renal Support  
+Yorkshire Terrier,11.0,Medication,Kidney and liver supplements,1,Canine Hepatic Loaf
+Yorkshire Terrier,12.0,Diet,"Digestive, Low-protein, soft senior diet",1,Hydrolized Protein Small Dog
+Yorkshire Terrier,12.0,Condition,"Cognitive decline, hearing loss",1,Yorkshire Terrier 8+
+Yorkshire Terrier,12.0,Vet Visit,,1,X-small Adult 8+
+Yorkshire Terrier,12.25,Vet Visit,,1,X-small Adult 8+
+Yorkshire Terrier,12.5,Vet Visit,,1,X-small Adult 8+
+Yorkshire Terrier,12.75,Vet Visit,,1,X-small Adult 8+
+Yorkshire Terrier,12.0,Medication,"Cognitive support, hearing aids",1,Canine Hepatic Loaf
+Yorkshire Terrier,13.0,Condition,"Severe dental disease, muscle loss",1,Yorkshire Terrier 8+
+Yorkshire Terrier,13.0,Vet Visit,,1,Canine Recovery Ultra Soft Mousse in Sauce
+Yorkshire Terrier,13.25,Vet Visit,,1,Canine Recovery Ultra Soft Mousse in Sauce
+Yorkshire Terrier,13.5,Vet Visit,,1,Canine Recovery Ultra Soft Mousse in Sauce
+Yorkshire Terrier,13.75,Vet Visit,,1,Canine Recovery Ultra Soft Mousse in Sauce
+Yorkshire Terrier,13.0,Medication,"Dental care, pain meds",1,Dental Small dog
+Yorkshire Terrier,14.0,Diet,"High-fiber, soft diet",1,Gastrointestinal High Fiber Loaf
+Yorkshire Terrier,14.0,Condition,"Incontinence, frailty",1,Canine Recovery Ultra Soft Mousse in Sauce
+Yorkshire Terrier,14.0,Vet Visit,,1,Dental Small dog
+Yorkshire Terrier,14.25,Vet Visit,,1,Dental Small dog
+Yorkshire Terrier,14.5,Vet Visit,,1,Dental Small dog
+Yorkshire Terrier,14.75,Vet Visit,,1,Dental Small dog
+Yorkshire Terrier,14.0,Medication,"Bladder support, joint meds",1,Renal Support  
+Yorkshire Terrier,15.0,Diet,Fortified soft diet for frail dogs,1,Gastrointestinal High Fiber Loaf
+Yorkshire Terrier,15.0,Condition,"Chronic illness, pain management",1,Canine Recovery Ultra Soft Mousse in Sauce
+Yorkshire Terrier,15.0,Vet Visit,,1,Hydrolized Protein Small Dog
+Yorkshire Terrier,15.25,Vet Visit,,1,Hydrolized Protein Small Dog
+Yorkshire Terrier,15.5,Vet Visit,,1,Hydrolized Protein Small Dog
+Yorkshire Terrier,15.75,Vet Visit,,1,Hydrolized Protein Small Dog
+Yorkshire Terrier,15.0,Medication,"Senior support meds, pain relief",1,Pill Assist Small Dog
+Boxer,0.0,Diet,"Large breed puppy food, DHA enriched",1,Boxer Puppy
+Boxer,0.0,Condition,"Growth checks, Teething",1,Canine Gastrointestinal Puppy Ultra Soft Mousse in Sauce
+Boxer,0.0,Vet Visit,,1,Large Puppy Chunks
+Boxer,0.3333333333333333,Vet Visit,,1,Large Puppy Chunks
+Boxer,0.6666666666666666,Vet Visit,,1,Large Puppy Chunks
+Boxer,0.0,Medication,"Vaccinations, deworming",1,
+Boxer,1.0,Vet Visit,,1,Large Puppy Chunks
+Boxer,1.5,Vet Visit,,1,Large Puppy Chunks
+Boxer,2.0,Diet,Transition to adult large breed food,1,Boxer Adult
+Boxer,2.0,Vet Visit,,1,Canine Recovery Ultra Soft Mousse in Sauce
+Boxer,2.5,Vet Visit,,1,Canine Recovery Ultra Soft Mousse in Sauce
+Boxer,3.0,Vet Visit,,1,Large Dental Care
+Boxer,4.0,Vet Visit,,1,Skintopic Large Dog
+Boxer,5.0,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,6.0,Condition,"Hip dysplasia, joint stiffness",1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,6.0,Vet Visit,,1,
+Boxer,6.5,Vet Visit,,1,
+Boxer,6.0,Medication,"Arthritis meds, hip support",1,
+Boxer,7.0,Diet,"Senior food, heart health support",1,Boxer Adult Loaf
+Boxer,7.0,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,7.5,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,8.0,Diet,"Senior food, lower calorie",1,Boxer Adult Loaf
+Boxer,8.0,Condition,"Weight gain, dental wear",1,Large Aging 8+
+Boxer,8.0,Vet Visit,,1,Weight Control Large Dog
+Boxer,8.5,Vet Visit,,1,Weight Control Large Dog
+Boxer,8.0,Medication,"Weight management meds, dental aids",1,Large Dental Care
+Boxer,9.0,Diet,"Soft senior diet, vitamin enriched",1,Boxer Adult Loaf
+Boxer,9.0,Condition,"Mobility issues, vision decline",1,Large Aging 8+
+Boxer,9.0,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,9.5,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,9.0,Medication,"Mobility aids, eye drops",1,
+Boxer,10.0,Diet,"Cardiac support, easy-to-chew food",1,Boxer Adult Loaf
+Boxer,10.0,Condition,"Heart murmur, fatigue",1,Large Aging 8+
+Boxer,10.0,Vet Visit,,1,Early Cardiac
+Boxer,10.333333333333334,Vet Visit,,1,Early Cardiac
+Boxer,10.666666666666666,Vet Visit,,1,Early Cardiac
+Boxer,10.0,Medication,"Cardiac meds, energy support",1,Large Comfort
+Boxer,11.0,Diet,"Kidney support, senior formula",1,Boxer Adult Loaf
+Boxer,11.0,Condition,Kidney function decline,1,Large Aging 8+
+Boxer,11.0,Vet Visit,,1,Large Comfort
+Boxer,11.333333333333334,Vet Visit,,1,Large Comfort
+Boxer,11.666666666666666,Vet Visit,,1,Large Comfort
+Boxer,11.0,Medication,"Kidney meds, hydration support",1,Renal Support D (delectable) Thin Slices in Gravy
+Boxer,12.0,Diet,"Low-protein, digestive-friendly food",1,Large 8+
+Boxer,12.0,Condition,"Heart failure signs, joint degeneration",1,Early Cardiac
+Boxer,12.0,Vet Visit,,1,Renal Support D (delectable) Thin Slices in Gravy
+Boxer,12.25,Vet Visit,,1,Renal Support D (delectable) Thin Slices in Gravy
+Boxer,12.5,Vet Visit,,1,Renal Support D (delectable) Thin Slices in Gravy
+Boxer,12.75,Vet Visit,,1,Renal Support D (delectable) Thin Slices in Gravy
+Boxer,12.0,Medication,"Heart support, joint meds",1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,13.0,Diet,"Digestive support, nutrient-rich",1,GI High Fiber
+Boxer,13.0,Condition,"Cognitive decline, muscle wasting",1,"Urinary SO Aging 7+, Wet Thin Slices"
+Boxer,13.0,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,13.25,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,13.5,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,13.75,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,13.0,Medication,"Cognitive supplements, muscle care",1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,14.0,Diet,"Soft, fortified senior diet",1,GI High Fiber
+Boxer,14.0,Condition,"Chronic arthritis, incontinence",1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,14.0,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,14.25,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,14.5,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,14.75,Vet Visit,,1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,14.0,Medication,"Pain relief, bladder control",1,"Mature Consult Large, Loaf"
+Boxer,15.0,Diet,Senior care diet for frail dogs,1,"Mature Consult Large, Loaf"
+Boxer,15.0,Condition,"Frailty, pain management",1,Probiotics for Dogs Digesting and Immune Health Powder Supplement
+Boxer,15.0,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,15.25,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,15.5,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,15.75,Vet Visit,,1,Joint Care Loaf in Sauce Canned Dog Food
+Boxer,15.0,Medication,Comprehensive senior meds,1,
